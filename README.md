@@ -32,6 +32,8 @@ This project takes real-world demand data, builds a transparent **emissions-foot
 
 > These are **global meta-analysis means**. Real intensity varies widely by production system and region, so results are a defensible **first-order** comparison of the *mix*, not a per-country inventory. See *Limitations*.
 
+**Data licence & attribution.** The **code** here is MIT-licensed (see `LICENSE`); the **data keeps its own terms**. Our World in Data is licensed **CC BY 4.0** (its underlying sources retain their own licences). The OECD–FAO Agricultural Outlook figures are © OECD/FAO under [OECD's terms of use](https://www.oecd.org/termsandconditions/) and were taken from a community mirror, not the official portal (see the source note above). Emission factors are from **Poore & Nemecek (2018), *Science*** (doi:10.1126/science.aaq0216). Please attribute these sources if you reuse the data.
+
 ---
 
 ## Method
